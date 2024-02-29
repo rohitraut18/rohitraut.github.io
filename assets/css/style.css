@@ -1421,3 +1421,8 @@ section {
   width: 50%;
   height: 50%;
 }
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
